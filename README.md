@@ -2,8 +2,7 @@
 # 👋 Hi, I'm Tariqul Islam.
 ## I am a Full Stack WEB DEVELOPER with having 6 month of experience.
 
-<h1>Follow me</h1>
-
+<a href="https://twitter.com/AbrarTariqul">FOLLOW @ABRARTARIQUL</a>
 ✔ I'm an aspiring 🔭️ Web Developer currently learning 🌱 Nodejs deeply.
 
 ✔ I'm a quick learner & I love to learn new 💻 Technologies.
