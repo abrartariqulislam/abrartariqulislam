@@ -5,7 +5,6 @@
   <a href="https://twitter.com/AbrarTariqul" style="color:red;">FOLLOW @ABRARTARIQUL</a><br>
 </div>
 <br>
-<br>
 
 ✔ I'm an aspiring 🔭️ Web Developer currently learning 🌱 Nodejs deeply.
 
